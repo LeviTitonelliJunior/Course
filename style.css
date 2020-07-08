@@ -112,3 +112,17 @@ section p{
 p{
     text-align: center;
 }
+
+div #nav-wrapper{
+    color: #0abab5;
+    background-color: #0abab5;
+    background: #0abab5;
+}
+
+nav{
+    background-color: #0abab5;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration-line: none;
+    color: white;
+}
